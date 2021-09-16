@@ -1,0 +1,7 @@
+<h3>{{sectionData.title}}</h3>
+<form [formGroup]="sectionForm">
+<ul>
+    <li *ngFor="let layer of sectionData.layers">
+        <input type='checkbox' [formControlName]="layer.id" />{{layer.name}}</li>
+</ul>
+</form>

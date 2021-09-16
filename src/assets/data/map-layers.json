@@ -1,0 +1,36 @@
+[
+    {
+        "title": "section a",
+        "layers": [
+            {
+                "id": "layer1a",
+                "name": "Layer 1a"
+            },
+            {
+                "id": "layer2a",
+                "name": "Layer 2a"
+            },
+            {
+                "id": "layer3a",
+                "name": "Layer 3a"
+            }
+        ]
+    },
+    {
+        "title": "section b",
+        "layers": [
+            {
+                "id": "layer1b",
+                "name": "Layer 1b"
+            },
+            {
+                "id": "layer2b",
+                "name": "Layer 2b"
+            },
+            {
+                "id": "layer3b",
+                "name": "Layer 3b"
+            }
+        ]
+    }
+]

@@ -1,0 +1,4 @@
+{
+    "default": ["layer1a", "layer3a", "layer2b"],
+    "view1": ["layer1a", "layer2a", "layer3a"]
+}
